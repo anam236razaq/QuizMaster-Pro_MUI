@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+:root {
+    --color-darkest: #171717;
+    --color-dark: #495057;
+}
+body {
+    min-height: 100vh;
+    color: var(--color-light);
+    background-color: var(--color-darkest);
+    padding: 3.2rem;
+  }
+
+
